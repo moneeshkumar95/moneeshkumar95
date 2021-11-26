@@ -21,10 +21,10 @@
   </a><span></span>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="60" height="60"/>
-  </a>
+  </a></span>
   <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer"> 
     <img src="https://ksr-ugc.imgix.net/assets/011/705/984/4ea78430d3ad7dc88106a7b973248ba7_original.jpg?ixlib=rb-4.0.2&crop=faces&w=1552&h=873&fit=crop&v=1463687041&auto=format&frame=1&q=92&s=16f9ae9168eecef976e5a19887afb152" alt="django" width="80" height="60"/>
-  </a>
+  </a></span>
 </p>
 
 <h3 align="left">Database:</h3>
