@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **Python, Django, Flask**
 
-- 🔭 I’m currently working on **personal projects like CRM, ERP, Dynamic Websites...**
+- 🔭 I’m currently working at **Anubavam Technologies**
 
 - 🌱 I’m currently learning **FastAPI, MongoDB**
 
