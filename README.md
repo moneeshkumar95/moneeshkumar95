@@ -15,19 +15,8 @@
 </p>
 
 <h3 align="left">Backend Technologies:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/>Python</a> </p>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/></a> Python</p>
 
-<div id="container" style="white-space:nowrap">
-
-    <div id="image" style="display:inline;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/>
-    </div>
-
-    <div id="texts" style="display:inline; white-space:nowrap;"> 
-        Python 
-    </div>
-
-</div>
 
 <h3 align="left">Database:</h3>
 <h3 align="left">Cloud:</h3>
