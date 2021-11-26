@@ -15,26 +15,16 @@
 </p>
 
 <h3 align="left">Backend Technologies:</h3>
-<figure>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/>
-  <figcaption> Python </figcaption>
-</figure>
-<figure>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="60" height="60"/>
-  <figcaption> Python </figcaption>
-</figure>
-<figure>
-  <img src="https://www.django-rest-framework.org/img/logo.png" alt="django_rest_framework" width="60" height="60"/>
-  <figcaption> Python </figcaption>
-</figure>
-<figure>
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask width="60" height="60"/>
-  <figcaption> Python </figcaption>
-</figure>
-<figure>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/3df8991a88f2433ddaedb0f78a247d5623cd6fe5/icons/fastapi.svg" alt="flask width="60" height="60"/>
-  <figcaption> Python </figcaption>
-</figure> 
+<p>
+  <figure>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/>
+    <figcaption> Python </figcaption>
+  </figure>
+  <figure>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="60" height="60"/>
+    <figcaption> Django </figcaption>
+  </figure>
+</p>
 
 <h3 align="left">Database:</h3>
 <h3 align="left">Cloud:</h3>
