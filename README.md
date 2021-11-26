@@ -18,7 +18,7 @@
 <p>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/>
-  </a><span></span>
+  </a><span>\t</span>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="60" height="60"/>
   </a></span>
