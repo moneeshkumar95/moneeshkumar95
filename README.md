@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at **Anubavam Technologies**
 
-- 🌱 I’m currently learning **FastAPI, MongoDB**
+- 🌱 I’m currently learning **FastAPI, MongoDB, GraphQL**
 
 - 👨‍💻 All of my projects are available at [https://moneesh.herokuapp.com/](https://moneesh.herokuapp.com/)
 
