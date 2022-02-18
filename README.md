@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **FastAPI, MongoDB, GraphQL**
 
-- 👨‍💻 Check out my <a href="https://moneesh.herokuapp.com">Portfolio</a>
+- 👨‍💻 Check out my <a href="https://moneesh.herokuapp.com"><b>Portfolio</b></a>
 
 - 📫 How to reach me **moneeshkumar95@gmail.com**
 
