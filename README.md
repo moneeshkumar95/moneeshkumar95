@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **Python, FastAPI, Django, Flask**
 
-- 🔭 I’m currently working at **Anubavam Technologies**
+- 🔭 I’m currently looking for **opportunity**
 
 - 🌱 I’m currently learning **Go, GraphQL**
 
