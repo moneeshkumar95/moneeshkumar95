@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Moneesh</h1>
 <h3 align="center">A Enthusiastic problem solver and Backend Developer</h3>
 
-- 💬 Ask me about **Python, FastAPI, Django, Flask**
+- 💬 Ask me about **Python, FastAPI, Django, Flask, Backend Development**
 
 - 🔭 I’m currently looking for **opportunity**
 
-- 🌱 I’m currently learning **Go, GraphQL**
+- 🌱 I’m currently learning **AI/ML, Go, GraphQL**
 
 - 👨‍💻 Check out my <a href="https://moneeshkumar95.github.io/portfolio/"><b>Portfolio</b></a>
 
