@@ -27,11 +27,11 @@
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/moneeshkumar95/moneeshkumar95/assets/78355845/8e990217-caca-4da5-a46f-49eff452aec8" alt="django" width="65" height="65"/>
   </a>&emsp;
-  <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://ksr-ugc.imgix.net/assets/011/705/984/4ea78430d3ad7dc88106a7b973248ba7_original.jpg?ixlib=rb-4.0.2&crop=faces&w=1552&h=873&fit=crop&v=1463687041&auto=format&frame=1&q=92&s=16f9ae9168eecef976e5a19887afb152" alt="django-rest" width="65" height="65"/>
-  </a>&emsp;
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="65" height="65"/>
+  </a>&emsp;
+    <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.django-rest-framework.org/img/logo.png" alt="django-rest" width="65" height="65"/>
   </a>&emsp;
 </p>
 
