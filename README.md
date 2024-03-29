@@ -33,6 +33,26 @@
     <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.django-rest-framework.org/img/logo.png" alt="django-rest" width="65" height="65"/>
   </a>&emsp;
+
+  <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.rabbitmq.com/img/rabbitmq-logo.svg" alt="RabbitMQ" width="65" height="65"/>
+  </a>&emsp;
+  <a href="https://docs.celeryq.dev/en/stable/index.html#" target="_blank" rel="noreferrer">
+    <img src="https://docs.celeryq.dev/en/stable/_static/celery_512.png" alt="Celery" width="65" height="65"/>
+  </a>&emsp;
+  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_kafka_vertical_logo_icon_169585.png" alt="Kafka" width="65" height="65"/>
+  </a>&emsp;
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/docker_original_wordmark_logo_icon_146557.png" alt="Docker" width="65" height="65"/>
+  </a>&emsp;
+  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/kubernetes_logo_icon_168359.png" alt="Kubernetes" width="65" height="65"/>
+  </a>&emsp;
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.icon-icons.com/icons2/3912/PNG/512/git_logo_icon_248230.png" alt="Git" width="65" height="65"/>
+  </a>&emsp;
+  
 </p>
 
 <h3 align="left">Front Technologies:</h3>
