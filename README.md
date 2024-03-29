@@ -30,10 +30,6 @@
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="65" height="65"/>
   </a>&emsp;
-    <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.django-rest-framework.org/img/logo.png" alt="django-rest" width="65" height="65"/>
-  </a>&emsp;
-
   <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.rabbitmq.com/img/rabbitmq-logo.svg" alt="RabbitMQ" width="65" height="65"/>
   </a>&emsp;
