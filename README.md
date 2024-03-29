@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Go, GraphQL**
 
-- 👨‍💻 Check out my <a href="https://moneesh.herokuapp.com"><b>Portfolio</b></a>
+- 👨‍💻 Check out my <a href="https://moneeshkumar95.github.io/portfolio/"><b>Portfolio</b></a>
 
 - 📫 How to reach me **moneeshkumar95@gmail.com**
 
