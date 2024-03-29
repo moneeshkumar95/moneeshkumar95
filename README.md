@@ -21,8 +21,11 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="65" height="65"/>
   </a>&emsp;
+    <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/moneeshkumar95/moneeshkumar95/assets/78355845/9d102379-d127-4a6a-8fae-b02aee20ad57" alt="fast-api" width="65" height="65"/>
+  </a>&emsp;
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="65" height="65"/>
+    <img src="https://github.com/moneeshkumar95/moneeshkumar95/assets/78355845/8e990217-caca-4da5-a46f-49eff452aec8" alt="django" width="65" height="65"/>
   </a>&emsp;
   <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer"> 
     <img src="https://ksr-ugc.imgix.net/assets/011/705/984/4ea78430d3ad7dc88106a7b973248ba7_original.jpg?ixlib=rb-4.0.2&crop=faces&w=1552&h=873&fit=crop&v=1463687041&auto=format&frame=1&q=92&s=16f9ae9168eecef976e5a19887afb152" alt="django-rest" width="65" height="65"/>
@@ -30,9 +33,6 @@
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="65" height="65"/>
   </a>&emsp;
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/3df8991a88f2433ddaedb0f78a247d5623cd6fe5/icons/fastapi.svg" alt="fast-api" width="65" height="65"/>
-  </a>
 </p>
 
 <h3 align="left">Front Technologies:</h3>
